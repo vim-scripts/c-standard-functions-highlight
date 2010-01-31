@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2952
+
+general c highlight doesn't support standard function symbols, so mixed with the symbols defined ourselves(wrong? oh, i'm a silly pig).
+
+let's separate them from now on.
+
+see in the snapshot including in the tarball. they're black, u'll know that. 
+
+may u have a good day.
